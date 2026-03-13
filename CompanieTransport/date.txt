@@ -1,0 +1,5 @@
+FIRMA;Transport Rapid SRL
+MASINA;Mercedes Sprinter;1500;120000;350
+MASINA;Minibus;1000;200000;800
+SOFER;Popescu Ion;Marfa;4500;08:00-16:00;0
+CLIENT;Ion Popescu;0712345678;Suceava
