@@ -1,7 +1,7 @@
 ﻿using System.IO;
 
 namespace CompanieTransport
-{
+{   
     internal class Program
     {
         static void Main(string[] args)
